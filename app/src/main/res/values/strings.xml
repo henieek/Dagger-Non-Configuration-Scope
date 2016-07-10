@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NonConfigurationScope</string>
+    <string name="repos_download_error">Ooops! Something went wrong with downloading jsonz.</string>
+    <string name="welcome_btn_clicker">Clicker</string>
+    <string name="welcome_btn_repos">Repos</string>
+</resources>
